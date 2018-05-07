@@ -1,6 +1,6 @@
 # Compile OpenCV 3.2.0 + OpenCV Contrib for Python on Raspberry Pi
 
-> I assume you have downloaded [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) and installed it on your Pi. Also I assume your RPi is running and functioning perfectly.
+> I assume you have already downloaded and installed the [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) on your Pi.
 
 > Make sure you have extended your disk before performing any step from below.
 
