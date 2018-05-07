@@ -2,7 +2,7 @@
 
 > I assume you have already downloaded and installed the [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) on your Pi.
 
-> Make sure you have extended your disk before performing any step from below.
+> Check first if you Pi has ample storage space before proceeding further. You can that by issuing the command $ df-h on the console
 
 # Step 1:
 
