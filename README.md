@@ -2,7 +2,7 @@
 
 > I assume you have already downloaded and installed the [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) on your Pi.
 
-> Check first if you Pi has ample storage space before proceeding further. You can that by issuing the command $ df-h on the console
+> Check first if you Pi has ample storage space before proceeding further. You can that by issuing the command `df-h` on the console
 
 # Step 1:
 
